@@ -11,6 +11,9 @@
 # production
 /build
 
+# API Key
+./src/api/unsplash.js
+
 # misc
 .DS_Store
 .env.local

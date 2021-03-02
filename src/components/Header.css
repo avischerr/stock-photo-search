@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+}
+
+h2.page-title {
+  padding: 15px;
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 38px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px  rgb(224, 224, 224);
+}
+
+label.search-label {
+  font-family: 'Averia Serif Libre', cursive;
+}
